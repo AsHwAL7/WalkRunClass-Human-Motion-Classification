@@ -1,0 +1,1 @@
+# WalkRunClass-Human-Motion-Classification
